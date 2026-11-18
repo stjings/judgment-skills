@@ -4,7 +4,7 @@
 
 [mattpocock/skills](https://github.com/mattpocock/skills)의 엔지니어링 흐름(grill → spec → tickets → tdd → code-review → retro) 위에
 **판단 게이트**를 얹은 강화판입니다. mattpocock skills가 "에이전트가 일하는 순서"를 잡아 준다면,
-이 플러그인은 그 순서의 **앞(의도)**과 **끝(증거)**에서 사람이 판단을 놓치지 않게 합니다.
+이 플러그인은 그 순서의 앞(**의도**)과 끝(**증거**)에서 사람이 판단을 놓치지 않게 합니다.
 
 ```
 의도 기록 → 위임 경계 → 실행 증거 → 사람의 판단

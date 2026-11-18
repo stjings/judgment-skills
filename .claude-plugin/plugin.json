@@ -1,6 +1,6 @@
 {
   "name": "judgment-skills",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "mattpocock/skills 강화판: AI에게 일을 맡기되 판단 기준(의도, 위임 경계, 실행 증거)은 사람이 쥐는 스킬 묶음",
   "author": {
     "name": "stjings",
@@ -8,7 +8,14 @@
   },
   "repository": "https://github.com/stjings/judgment-skills",
   "license": "MIT",
-  "keywords": ["delegation", "intent", "evidence", "review", "grilling", "mattpocock"],
+  "keywords": [
+    "delegation",
+    "intent",
+    "evidence",
+    "review",
+    "grilling",
+    "mattpocock"
+  ],
   "skills": [
     "./skills/judgment-gates",
     "./skills/intent-grill",
