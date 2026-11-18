@@ -1,0 +1,17 @@
+{
+  "name": "stjings",
+  "owner": {
+    "name": "stjings",
+    "url": "https://github.com/stjings"
+  },
+  "description": "stjings의 Claude Code 플러그인 마켓플레이스",
+  "plugins": [
+    {
+      "name": "judgment-skills",
+      "source": "./",
+      "description": "mattpocock/skills 강화판: 의도 기록, 위임 경계, 실행 증거, 사람의 판단",
+      "category": "engineering",
+      "keywords": ["delegation", "intent", "evidence", "review"]
+    }
+  ]
+}
